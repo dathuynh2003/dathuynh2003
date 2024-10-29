@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dathuynh2003
+- 📖 I'm currently learning in FPT University
+- 🌱 I’m currently learning Android development
+- 💞️ I’m looking for an programming job
+- 📫 Contact: vudat310103@gmail.com | +8483 909 5700
